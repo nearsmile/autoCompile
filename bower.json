@@ -1,0 +1,7 @@
+{
+	"name": "commonAuto",
+	"private": true,
+	"dependencies": {
+		"jquery": "^3.1.1"
+	}
+}
